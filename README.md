@@ -16,17 +16,38 @@
 
 <hr></hr>
 
-## 🚀 About Me
+# Ahmed
 
-- 🎓 Computer Information Systems student  
-- 💻 Passionate about programming and software development  
-- 🧠 Focused on improving my problem solving skills  
-- ⚙️ Learning C++ (OOP + Data Structures)  
-- 🌱 Building my foundation in Git & GitHub  
-- 🔥 Always trying to learn by doing real practice  
+🎓 Computer Information Systems student  
+💻 Software developer in progress  
+🧠 Focused on C++ • Problem Solving • Data Structures  
+🌱 Learning Git & GitHub  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Skills
 
-![C++](https://img.shields.io/badge/C%2B%2
+- C++
+- Python (basics)
+- Java (basics)
+- HTML / CSS / JavaScript
+- Git & GitHub
+
+---
+
+## Current Focus
+
+- Data Structures in C++
+- Object-Oriented Programming
+- Problem Solving Practice
+- University Courses
+
+---
+
+## Goal
+
+To become a strong software developer through consistent practice and real projects.
+
+---
+
+> “Consistency beats intensity.”
